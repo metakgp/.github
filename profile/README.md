@@ -4,12 +4,18 @@
 
 ## What is it?
 
+An open community coming together to help solve problems an average KGPian faces in everyday life using tech. Issues can be anything that is related to KGP in general. It is an amalgamation of the [Wiki](https://wiki.metakgp.org) and multiple projects the students have been building over the years.
   
-## What does it do?  
+## What does it do? 
+
+- Maintains the student-led community wiki of IIT Kharagpur.
+- Creates and maintains projects which makes the life of a KGPian easier.
+- Provides an open forum for anyone to join and discuss anything related to technology.
 
 
 ## Contact
 - Mail - `metakgp@gmail.com`
+- [Slack](https://bit.ly/metakgp-slack)
 - [Facebook](https://www.facebook.com/metakgp)
 - [X](https://twitter.com/metakgp)
 - [Instagram](https://www.instagram.com/metakgp_/)
