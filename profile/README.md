@@ -4,7 +4,7 @@
 
 ## What is it?
 
-An open community coming together to help solve problems an average KGPian faces in everyday life using tech. Issues can be anything that is related to KGP in general. It is an amalgamation of the [Wiki](https://wiki.metakgp.org) and multiple projects the students have been building over the years.
+An open community coming together to help solve problems an average KGPian faces in everyday life using tech. Issues can be anything that is related to KGP in general. It is an amalgamation of the [Wiki](https://wiki.metakgp.org) and multiple projects which the students have been building over the years.
   
 ## What does it do? 
 
