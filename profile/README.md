@@ -1,6 +1,6 @@
 # Metakgp
 
-![metakgp-wall](./wall.png)
+![metakgp-wall](https://github.com/metakgp/.github/blob/main/profile/wall.png)
 
 ## Who are we?
 
