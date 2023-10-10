@@ -14,7 +14,7 @@ An open community coming together to help solve problems an average KGPian faces
 
 ## Contact
 - [Email](mailto:metakgp@gmail.com)
-- [Slack](https://bit.ly/metakgp-slack)
+- [Slack](https://slack.metakgp.org)
 - [Facebook](https://www.facebook.com/metakgp)
 - [X](https://twitter.com/metakgp)
 - [Instagram](https://www.instagram.com/metakgp_/)
